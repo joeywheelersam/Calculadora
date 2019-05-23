@@ -1,6 +1,6 @@
 /**
  *
- * @author Jomar Ferreira
+ * @author Jomar Ferreira 
  */
 package calculadora;
 
